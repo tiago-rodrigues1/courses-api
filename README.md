@@ -45,7 +45,7 @@ Este projeto consiste na implementação de uma API desenvolvida em Java como at
 docker compose up -d
 ```
 
-4. Acesse a API pelo navegador ou via ferramentas como [Postman](https://www.postman.com/) ou [Insomnia](https://insomnia.rest/), utilizando `http://localhost:8080` como base URL.
+4. Acesse a API pelo navegador ou via ferramentas como [Postman](https://www.postman.com/) ou [Insomnia](https://insomnia.rest/), utilizando `http://localhost:5500` como base URL.
 
 ## Estrutura do Projeto
 
